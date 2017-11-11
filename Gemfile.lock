@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby-fann (1.2.6)
+    wikipedia-client (1.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-fann
+  wikipedia-client
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.15.4
